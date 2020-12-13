@@ -10,5 +10,6 @@ Samuel's Data science project
   * solve missing value
   * Create One-Hot-Encoder for handle categorical data
 * Build regression model using XGBOOST (`XGBRegressor`)
+* Evaluate model using `cross_val_score`
 * Tuning hyper parameter using `RandomizedSearchCV`
 * Save the prediction results in csv
