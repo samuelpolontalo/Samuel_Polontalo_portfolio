@@ -11,7 +11,7 @@ Samuel's Data science project
 * Build model:
   * Process images using `ImageDataGenerator`.
   * Create several layer Neural Network using TensorFlow.
-* Plot training and validation accuracy and training and validation loss to evaluate the model.
+* Plot training, validation accuracy and training, validation loss to evaluate the model.
 # [Project 2: Housing Price Advanced](https://github.com/samuelpolontalo/Housing-Price-Advanced)
 ## Project Overview
 * Exploratory data analysis
