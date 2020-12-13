@@ -1,13 +1,12 @@
 # Samuel_Polontalo_portfolio
 Samuel's Data science project
-
- # [Project 1: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
- ## Project Overview
- * Data preparation:
-   * Read dataset using `os` and `zipfile`.
-   * Create directory.
-   * Split data into data train and data test using sklearn `train_test_split`.
-   * Create new directory and copy the data train and data test using `shutil`.
+# [Project 1: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
+## Project Overview
+* Data preparation:
+  * Read dataset using `os` and `zipfile`.
+  * Create directory.
+  * Split data into data train and data test using sklearn `train_test_split`.
+  * Create new directory and copy the data train and data test using `shutil`.
 * Build model:
   * Process images using `ImageDataGenerator`.
   * Create several layer Neural Network using TensorFlow.
