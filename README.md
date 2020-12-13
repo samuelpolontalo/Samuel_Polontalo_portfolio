@@ -2,6 +2,16 @@
 Samuel's Data science project
 
 # [Project 1: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
+## Project Overview
+* Data preparation:
+  * Read dataset using `os` and `zipfile`.
+  * Create directory.
+  * Split data into data train and data test using sklearn `train_test_split`.
+  * Create new directory and copy the data train and data test using `shutil`.
+* Build model:
+  * Process images using `ImageDataGenerator`.
+  * Create several layer Neural Network using TensorFlow.
+* Plot training and validation accuracy and training and validation loss to evaluate the model.
 # [Project 2: Housing Price Advanced](https://github.com/samuelpolontalo/Housing-Price-Advanced)
 ## Project Overview
 * Exploratory data analysis
