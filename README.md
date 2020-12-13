@@ -22,6 +22,6 @@ Samuel's Data science project
   * Read big dataset using `dask.dataframe` then convert it to pandas dataframe (there is 137 columns and over 20 million row)
   * Create column action based on column 'resp' and 'weight'
   * Fill missing value with 0
-* Build Model using XGBOOST ('XGBClassifier'):
+* Build Model using XGBOOST (`XGBClassifier`):
   * Activate the GPU on kaggle notebook.
 * Predict the unseen data test.
