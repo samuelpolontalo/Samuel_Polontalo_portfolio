@@ -12,14 +12,15 @@ Samuel's Data science project
   * Process images using `ImageDataGenerator`.
   * Create several layer Neural Network using TensorFlow.
 * Plot training, validation accuracy and training, validation loss to evaluate the model.
+* Create a file upload feature to test the prediction model.
 # [Project 2: Housing Price Advanced](https://github.com/samuelpolontalo/Housing-Price-Advanced)
 ## Project Overview
 * Exploratory data analysis
 * Apply data cleaning:
-  * solve the categorical data('object') read as numerical data('int64' and 'float64').
-  * solve the numerical data('int64' and 'float64') read as categorical data('object').
-  * solve missing value.
-  * removing the outlier.
+  * Solve the categorical data('object') read as numerical data('int64' and 'float64').
+  * Solve the numerical data('int64' and 'float64') read as categorical data('object').
+  * Solve missing value.
+  * Removing the outlier.
   * Create One-Hot-Encoder for handle categorical data.
 * Feature Engineering.
 * Build regression model using XGBOOST (`XGBRegressor`).
