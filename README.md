@@ -18,7 +18,7 @@ Samuel's Data science project
 ## Project Overview
 * Exploratory data analysis
 * Apply data cleaning:
-  * Solve the categorical data('object') read as numerical data('int64' and 'float64').
+  * Solve the categorical data('object') read as numerical data('int' and 'float').
   * Solve the numerical data('int64' and 'float64') read as categorical data('object').
   * Solve missing value.
   * Removing the outlier.
@@ -37,4 +37,17 @@ Samuel's Data science project
   * Fill missing value with 0
 * Build Model using XGBOOST (`XGBClassifier`):
   * Activate the GPU on kaggle notebook.
+* Build Model using NeuralNetwork TensorFlow:
+  * Apply `BatchNormalization()` to improve performance model.
+  * Apply `Dropout()` to improve performance model.
+  * Using `EarlyStopping` to prevent model from overfitting.
 * Predict the unseen data test.
+
+# [Project 4: Titanic - Machine Learning from Disaster](https://github.com/samuelpolontalo/Titanic-Survival)
+## Project Overview
+* Simple Exploratory data analysis
+* Apply data cleaning:
+  * Solve missing value.
+  * Create One-Hot-Encoder for handle low cardinality categorical data.
+* Build several classifier model machine learning then compare them each other using `cross_val_score`.
+* Save the prediction results in csv.
