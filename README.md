@@ -25,8 +25,8 @@ Samuel's Data science project
   * Create One-Hot-Encoder for handle categorical data.
 * Feature Engineering.
 * Build regression model using XGBOOST (`XGBRegressor`).
-* Evaluate model using `cross_val_score`.
-* Tuning hyper parameter using `RandomizedSearchCV`.
+  * Evaluate model using `cross_val_score`.
+  * Tuning hyper parameter using `RandomizedSearchCV`.
 * Save the prediction results in csv.
 
 # [Project 3: Jane Street Market Prediction](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction)
