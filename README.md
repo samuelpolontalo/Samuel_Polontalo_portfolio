@@ -44,6 +44,7 @@ Your challenge will be to use the historical data, mathematical tools, and techn
   * Fill missing value with 0
 * Build Model using XGBOOST (`XGBClassifier`):
   * Activate the GPU on kaggle notebook.
+  * Optimize the parameters by trial and errors.
 * Build Model using NeuralNetwork TensorFlow:
   * Apply `BatchNormalization()` to improve performance model.
   * Apply `Dropout()` to improve performance model.
