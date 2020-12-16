@@ -86,7 +86,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 * Build several classifier model machine learning then compare them each other using `cross_val_score`.
 * Save the prediction results in csv.
 
-# Project 6: Exploratory Data Analysis COVID-19 Around The World and Southeast Asia.
+# [Project 6: Exploratory Data Analysis COVID-19 Around The World and Southeast Asia.](https://github.com/samuelpolontalo/Simple-Exploratory-Data-Analysis-COVID-19)
 In this data science project we will visualize fatality rate around the world and compare total case indonesia against 4 other countries.
 
 # [Project 7: Housing Price Beginer](https://github.com/samuelpolontalo/Housing-Prices-Beginer)
