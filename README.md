@@ -88,7 +88,7 @@ In this challenge, we ask you to build a predictive model that answers the quest
 * Save the prediction results in csv.
 
 # [Project 6: Exploratory Data Analysis COVID-19 Around The World and Southeast Asia.](https://github.com/samuelpolontalo/Simple-Exploratory-Data-Analysis-COVID-19)
-In this data science project we will visualize fatality rate around the world and compare total case indonesia against 4 other countries.
+In this data science project we will visualize fatality rate around the world and compare total case indonesia against 4 other countries in southeast asia.
 
 # [Project 7: Housing Price Beginer](https://github.com/samuelpolontalo/Housing-Prices-Beginer)
 **Competition Description**: Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
