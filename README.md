@@ -1,7 +1,7 @@
 # Samuel Polontalo Portfolio
 **About Me**: I am a scientist. A planner and conceptor. Work in a structured and systematic manner. Adaptive, intuitive, able to learn fast, and can work under pressure. Able to work in teams and be able to work independently. Love a challenge and exploring new things. Having a competition in collaboration spirit. Interested in data science, big data, and artificial intelligence. 
 
-## **To show my enthusiasm toward the science data in this portfolio I present several of my personal projects and the Kaggle competitions that I participated in.**
+# Here My Data Science Project :
 
 # [Project 1: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
 In this data science project we created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
