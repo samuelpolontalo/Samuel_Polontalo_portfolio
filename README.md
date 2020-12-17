@@ -5,7 +5,7 @@
 
 # [Project 1: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
 In this data science project we created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
-## Project Overview
+## [Project Overview](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow/blob/main/rock_paper_scissors_recognition.ipynb)
 * Data preparation:
   * Read dataset using `os` and `zipfile`.
   * Create directory.
@@ -21,7 +21,7 @@ In this data science project we created a program to recognize rock, paper and s
 **Competition Description**: Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
-## Project Overview
+## [Project Overview](https://github.com/samuelpolontalo/Housing-Price-Advanced/blob/main/Housing-price-advanced.ipynb)
 * Exploratory data analysis
 * Apply data cleaning:
   * Solve the categorical data('object') read as numerical data('int' and 'float').
@@ -39,7 +39,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 In the first three months of this challenge, you will build your own quantitative trading model to maximize returns using market data from a major global stock exchange. Next, you’ll test the predictiveness of your models against future market returns and receive feedback on the leaderboard.
 
 Your challenge will be to use the historical data, mathematical tools, and technological tools at your disposal to create a model that gets as close to certainty as possible. You will be presented with a number of potential trading opportunities, which your model must choose whether to accept or reject.
-## Project Overview
+## [Project Overview](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction/blob/main/Model_XGBOOST.ipynb)
 * Data preparation:
   * Read big dataset using `dask.dataframe` then convert it to pandas dataframe (there is 137 columns and over 20 million row)
   * Create column action based on column 'resp' and 'weight'
@@ -47,7 +47,7 @@ Your challenge will be to use the historical data, mathematical tools, and techn
 * Build Model using XGBOOST (`XGBClassifier`):
   * Activate the GPU on kaggle notebook.
   * Optimize the parameters by trial and errors.
-* Build Model using NeuralNetwork TensorFlow:
+* [Build Model using NeuralNetwork TensorFlow](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction/blob/main/model_NeuralNetwork.ipynb):
   * Apply `BatchNormalization()` to improve performance model.
   * Apply `Dropout()` to improve performance model.
   * Using `EarlyStopping` to prevent model from overfitting.
@@ -55,7 +55,7 @@ Your challenge will be to use the historical data, mathematical tools, and techn
 
 # [Project 4: Cassava Leaf Disease Classification](https://github.com/samuelpolontalo/cassava-leaf-disease)
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
-## Project Overview
+## [Project Overview](https://github.com/samuelpolontalo/cassava-leaf-disease/blob/main/build_model.ipynb)
 * Data overview
 * Data Preparation
   * Streaming data using API.
@@ -81,7 +81,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
-## Project Overview
+## [Project Overview](https://github.com/samuelpolontalo/Titanic-Survival/blob/main/titanic-survival-model.ipynb)
 * Simple Exploratory data analysis
 * Apply data cleaning:
   * Solve missing value.
