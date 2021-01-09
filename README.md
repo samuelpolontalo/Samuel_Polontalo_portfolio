@@ -3,9 +3,9 @@
 
 # Here My Data Science Project :
 
-# [Personal Project: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
-In this data science project we created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
-## [Project Overview](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow/blob/main/rock_paper_scissors_recognition.ipynb)
+## [Personal Project: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
+In this data science project, I created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
+### [Project Overview](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow/blob/main/rock_paper_scissors_recognition.ipynb)
 * Data preparation:
   * Read dataset using `os` and `zipfile`.
   * Create directory.
@@ -18,9 +18,10 @@ In this data science project we created a program to recognize rock, paper and s
 * Create a file upload feature to test the prediction model.
 
 ## [Kaggle Competition: Jane Street Market Prediction](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction)
-In the first three months of this challenge, you will build your own quantitative trading model to maximize returns using market data from a major global stock exchange. Next, you’ll test the predictiveness of your models against future market returns and receive feedback on the leaderboard.
+In this challenge, i built my own quantitative trading model to maximize returns using market data from a major global stock exchange. Next, i tested the predictiveness of my models against future market returns and receive feedback on the leaderboard.
 
-Your challenge will be to use the historical data, mathematical tools, and technological tools at your disposal to create a model that gets as close to certainty as possible. You will be presented with a number of potential trading opportunities, which your model must choose whether to accept or reject.
+in this challenge, I used the historical data, mathematical tools, and technological tools at my disposal to create a model that gets as close to certainty as possible.
+To increase accuracy, i build 2 statistical model using XGBOOST and Neural Network.
 ### [Project Overview](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction/blob/main/Model_XGBOOST.ipynb)
 * Data preparation:
   * Read big dataset using `dask.dataframe` then convert it to pandas dataframe (there is 137 columns and over 20 million row)
@@ -36,9 +37,8 @@ Your challenge will be to use the historical data, mathematical tools, and techn
 * Predict the unseen data test.
 
 ## [Kaggle Competition: Housing Price Advanced](https://github.com/samuelpolontalo/Housing-Price-Advanced)
-**Competition Description**: Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+In this competition I solved the problem of predicting house prices. On this data science project, I demonstrated my ability to perform data cleaning, create EDA(Exploratory data analysis) and build statistical models.
 
-With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 ### [Project Overview](https://github.com/samuelpolontalo/Housing-Price-Advanced/blob/main/Housing-price-advanced.ipynb)
 * Exploratory data analysis
 * Apply data cleaning:
@@ -53,7 +53,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
   * Tuning hyper parameter using `RandomizedSearchCV`.
 * Save the prediction results in csv.
 
-## [Project 4: Cassava Leaf Disease Classification](https://github.com/samuelpolontalo/cassava-leaf-disease)
+## [Kaggle Competition: Cassava Leaf Disease Classification](https://github.com/samuelpolontalo/cassava-leaf-disease)
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
 ### [Project Overview](https://github.com/samuelpolontalo/cassava-leaf-disease/blob/main/build_model.ipynb)
 * Data overview
@@ -72,4 +72,9 @@ As the second-largest provider of carbohydrates in Africa, cassava is a key food
 * Plot training, validation accuracy and training, validation loss to evaluate the model.
   
 # Here My Data Analyst Project :
+## [Hackaton Data Science BRI: Exploratory Data Analysis](https://github.com/samuelpolontalo/People-analytic-hackaton-BRI/blob/main/EDA_People_Analytic.pbix)
+In this data analysis project, I created an interactive exploratory data analysis to analyze the best performance in the given features. The analysis tool used in this project is Power BI.
+
+## [Personal Project: Key Performance Indicator Card](https://github.com/samuelpolontalo/Simple-KPI-card/blob/main/KPI%20Surplus%20dashboard.pbix)
+In this data analysis project, I created a thought-provoking Key Performance Indicator to measure Surplus and total sales amount based on employee and year.
 
