@@ -70,11 +70,3 @@ As the second-largest provider of carbohydrates in Africa, cassava is a key food
   * Process images using `ImageDataGenerator`.
   * Create several layer Neural Network using TensorFlow.
 * Plot training, validation accuracy and training, validation loss to evaluate the model.
-  
-# Here My Data Analyst Project :
-## [Hackaton Data Science BRI: Exploratory Data Analysis](https://github.com/samuelpolontalo/People-analytic-hackaton-BRI/blob/main/EDA_People_Analytic.pbix)
-In this data analysis project, I created an interactive exploratory data analysis to analyze the best performance in the given features. The analysis tool used in this project is Power BI.
-
-## [Personal Project: Key Performance Indicator Card](https://github.com/samuelpolontalo/Simple-KPI-card/blob/main/KPI%20Surplus%20dashboard.pbix)
-In this data analysis project, I created a thought-provoking Key Performance Indicator to measure Surplus and total sales amount based on employee and year.
-
