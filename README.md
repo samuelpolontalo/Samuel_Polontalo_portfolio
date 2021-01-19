@@ -5,8 +5,7 @@
 
 ## [Personal Project: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
 In this data science project, I created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
-### [Project Overview](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow/blob/main/rock_paper_scissors_recognition.ipynb)
-* Data preparation:
+### [Project Overview]
   * Read dataset using `os` and `zipfile`.
   * Create directory.
   * Split data into data train and data test using sklearn `train_test_split`.
@@ -22,7 +21,7 @@ In this challenge, i built my own quantitative trading model to maximize returns
 
 in this challenge, I used the historical data, mathematical tools, and technological tools at my disposal to create a model that gets as close to certainty as possible.
 To increase accuracy, i build 2 statistical model using XGBOOST and Neural Network.
-### [Project Overview](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction/blob/main/Model_XGBOOST.ipynb)
+### [Project Overview]
 * Data preparation:
   * Read big dataset using `dask.dataframe` then convert it to pandas dataframe (there is 137 columns and over 20 million row)
   * Create column action based on column 'resp' and 'weight'
@@ -30,7 +29,7 @@ To increase accuracy, i build 2 statistical model using XGBOOST and Neural Netwo
 * Build Model using XGBOOST (`XGBClassifier`):
   * Activate the GPU on kaggle notebook.
   * Optimize the parameters by trial and errors.
-* [Build Model using NeuralNetwork TensorFlow](https://github.com/samuelpolontalo/Jane-Street-Market-Prediction/blob/main/model_NeuralNetwork.ipynb):
+* [Build Model using NeuralNetwork TensorFlow]:
   * Apply `BatchNormalization()` to improve performance model.
   * Apply `Dropout()` to improve performance model.
   * Using `EarlyStopping` to prevent model from overfitting.
@@ -39,7 +38,7 @@ To increase accuracy, i build 2 statistical model using XGBOOST and Neural Netwo
 ## [Kaggle Competition: Housing Price Advanced](https://github.com/samuelpolontalo/Housing-Price-Advanced)
 In this competition I solved the problem of predicting house prices. On this data science project, I demonstrated my ability to perform data cleaning, create EDA(Exploratory data analysis) and build statistical models.
 
-### [Project Overview](https://github.com/samuelpolontalo/Housing-Price-Advanced/blob/main/Housing-price-advanced.ipynb)
+### [Project Overview]
 * Exploratory data analysis
 * Apply data cleaning:
   * Solve the categorical data('object') read as numerical data('int' and 'float').
@@ -53,9 +52,18 @@ In this competition I solved the problem of predicting house prices. On this dat
   * Tuning hyper parameter using `RandomizedSearchCV`.
 * Save the prediction results in csv.
 
+## [Kaggle Competition: People Analitic BRI data Hackaton 2021](https://github.com/samuelpolontalo/People-analytic-hackaton-BRI)
+In this science data competition, I created a statistical model using machine learning to predict employee performance based on the given key performance indication (KPI)
+### [Project Overview]
+* Exploratory data analysis using Power BI
+* Data Cleaning
+* Build classifier model using XGBOOST (`XGBClassifier`) with AUC Metric evaluation.
+* Tuning hyper parameter using `RandomizedSearchCV`.
+* Save the prediction results in csv.
+
 ## [Kaggle Competition: Cassava Leaf Disease Classification](https://github.com/samuelpolontalo/cassava-leaf-disease)
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
-### [Project Overview](https://github.com/samuelpolontalo/cassava-leaf-disease/blob/main/build_model.ipynb)
+### [Project Overview]
 * Data overview
 * Data Preparation
   * Streaming data using API.
