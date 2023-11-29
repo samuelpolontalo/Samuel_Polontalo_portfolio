@@ -3,8 +3,11 @@
 
 # Here My Data Science Project :
 
+## [Lintasarta CSR Program, SMKN 4 Kupang: Weather Prediction](https://github.com/samuelpolontalo/Weather_Prediction)
+The "Weather Prediction" project by Al for Youth from SMK Negeri 4 Kupang addresses the recurring issue of crop failures among NTT farmers due to unpredictable weather conditions. Using Artificial Intelligence, specifically Gradient Boosting, the team developed a software tool that leverages data from BMKG for accurate weather predictions in Kupang. The "Typing and Knowing" feature allows users to input instructions in Bahasa Indonesia to receive real-time weather forecasts. The success of the project underscores the potential of artificial intelligence to assist farmers, and the team expresses gratitude to PT Lintasarta and Intel AI For Youth for their support.
+
 ## [Personal Project: Rock, Paper and Scissor image recognition using Tensor Flow](https://github.com/samuelpolontalo/rock-paper-scissors-recognition-using-TensorFlow)
-In this data science project, I created a program to recognize rock, paper and scissors images using the TensorFlow neural network.
+In this data science project, I created a program to recognize rock, paper, and scissors images using the TensorFlow neural network.
 ### [Project Overview]
   * Read dataset using `os` and `zipfile`.
   * Create directory.
