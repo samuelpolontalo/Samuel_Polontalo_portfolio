@@ -1,5 +1,5 @@
 # Samuel Polontalo Portfolio
-**About Me**: I am a scientist. A planner and conceptor. Work in a structured and systematic manner. Adaptive, intuitive, able to learn fast, and can work under pressure. Able to work in teams and be able to work independently. Love a challenge and exploring new things. Having a competition in collaboration spirit. Interested in data science, big data, and artificial intelligence. 
+**About Me**: Dynamic academic professional with a Bachelor's degree in Physics from Gadjah Mada University. Proven track record as an Academic Coordinator and Instructor, adept in program design and execution. Expertise in data science instruction, content creation, and cross-functional collaboration. Skilled in fostering engaging learning environments, mentoring students, and driving educational innovation. Committed to optimizing educational experiences, leveraging diverse skills to facilitate comprehensive learning, and cultivating the development of future educational leaders. Recognized for excellence in research, project management, and curriculum development, with a passion for contributing to the advancement of the education sector.
 
 # Here My Data Science Project :
 
